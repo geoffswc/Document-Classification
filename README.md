@@ -32,11 +32,11 @@ This tutorial consists of a series of notebooks. Further explanatory text is ava
 
 ### Sentiment-Example.ipynb
 
-How to create and use a dictionary in Python.  How to nest arrays and dictionaries in a dictionary, a common pattern in a JSON response.   
+How to create, populate, and apply a sentiment model on a very small set of observations (documents).
 
 ### Movie-Reviews-Pipeline.ipynb
 
-Using a spell checking web service from the National Library of Medicine, how to request data from an api endpoint.  How to include request parameters in a URL.  How to read and parse JSON reponse as a python dictionary.  
+How to use a scikit-learn pipeline to more efficently create, populate, and apply a sentiment prediction model on a larger document collection. 
 
 ## Links and Further Reading
 
