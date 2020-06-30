@@ -8,7 +8,7 @@ This workshop provides an introduction to reading using Python and the scikit-le
 
 Scikit-learn is a widely used Python baased machine learning and natural language processing library. This library provides methods for supervised and unsupervised learning, an implementation of different machine learning algorithms, and tools for common data preparation tasks involved in machine leaarning programming projects.
 
-This workshop will focus on programming methods for using scikit-learn, rather than the theory behind the algorithms. The first workbook will introduce machine learning, document categorizaation, and sentiment analysis using a very small dataset. The second workbook will apply these techniques to a larger dataset. 
+This workshop will focus on programming methods for using scikit-learn, rather than the theory behind the algorithms. The first workbook will introduce machine learning, document categorizaation, and sentiment analysis using a very small dataset. The second workbook will apply these techniques to a larger dataset using a scikit-learn pipeline. 
 
 Through these two workbooks, participants will use scikit-learn to"
 
