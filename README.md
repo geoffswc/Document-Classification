@@ -24,6 +24,34 @@ Through these two workbooks, participants will use scikit-learn to:
  
 5. Apply a machine learning model to assess the sentiment (or category) of new documents in the collection. 
 
+### Topics
+
+Reading in data
+Converting data into a dataframe (or comma separated file) format
+	Removing punctuation
+	Removing capitalization
+	Removing non-alphanumeric characters
+	Tokenization
+	Removing stop words
+	Using a pre-defined vocabulary
+	Stemming 
+	Lemmatizing
+Vectorizing
+	Count Vector
+	tf-idf
+	n-grams
+Feature engineering
+Model Building
+	Creating a Random Forest Model
+	not covered - Gradient Boosting
+Model Evaluation
+	Accuracy, Precision, Recall
+	precision - (predicted and actually positive)/(positive predictions)
+	recall - (predicted and actually predictions)/(actully positive)
+Model Application and Insight
+	Feature importance
+	Predictions
+
 ### Prerequisites
 
 This tutorial is intended for participants who have basic programming experience with Python, including loops, conditionals, and lists. No previous experience with scikit-learn or machine learning is expected. Some familiarity with pandas will help, but we will cover these concepts in the context of populating a scikit-learn model.  
