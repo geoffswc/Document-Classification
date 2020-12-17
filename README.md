@@ -26,31 +26,30 @@ Through these two workbooks, participants will use scikit-learn to:
 
 ### Topics
 
-Reading in data
-Converting data into a dataframe (or comma separated file) format
-	Removing punctuation
-	Removing capitalization
-	Removing non-alphanumeric characters
-	Tokenization
-	Removing stop words
-	Using a pre-defined vocabulary
-	Stemming 
-	Lemmatizing
-Vectorizing
-	Count Vector
-	tf-idf
-	n-grams
-Feature engineering
-Model Building
-	Creating a Random Forest Model
-	not covered - Gradient Boosting
-Model Evaluation
-	Accuracy, Precision, Recall
-	precision - (predicted and actually positive)/(positive predictions)
-	recall - (predicted and actually predictions)/(actully positive)
-Model Application and Insight
-	Feature importance
-	Predictions
+* Reading in data
+* Converting data into a dataframe (or comma separated file) format
+* Cleaning data
+	* Removing punctuation
+	* Removing capitalization
+	* Removing non-alphanumeric characters
+	* Tokenization
+	* Removing stop words
+	* Using a pre-defined vocabulary
+	* Stemming 
+	* Lemmatizing
+* Vectorizing
+	* Count Vector
+	* tf-idf
+	* n-grams
+* Feature engineering
+* Model Building
+	* Creating a Random Forest Model
+	* not covered - Gradient Boosting, other ML algorithms
+* Model Evaluation
+	* Accuracy, Precision, Recall
+* Model Application and Insight
+	* Feature importance
+	* Predictions
 
 ### Prerequisites
 
