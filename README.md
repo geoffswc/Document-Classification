@@ -51,9 +51,10 @@ As an entry point to scikit-learn, you may want to read more about the libraries
 * term frequency: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html
 * random forest classifier: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-## Data Citation
+## Data and Citation
 
 This workshop uses data from the Cornell Movie Review dataset
 http://www.cs.cornell.edu/people/pabo/movie-review-data/
 
-The data used in this workshop has already been processed and prepared for machine learning. The collection of movie review files on the cornell site have been collated into a comma separated file, with special characters and capitalization removed. Although this particular workshop focuses on using scikit-learn, it is worth mentioning how much programming work in ML goes into preparing data (over 90% of the programming effort, by many estimates). If you have extra time for the workshop, it might be worth reviewing the scripting and data munging that goes into preparing a data set.  
+This workshop will use the polarity dataset v1.1
+http://www.cs.cornell.edu/people/pabo/movie-review-data/mix20_rand700_tokens_0211.tar.gz
