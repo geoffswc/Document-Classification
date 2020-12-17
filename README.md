@@ -8,7 +8,7 @@ This material is designed for programmers, data scientists, and researchers who 
 
 ### Long Description
 
-Scikit-learn is a widely used Python baased machine learning and natural language processing module. Scikit-learn provides methods for supervised and unsupervised learning, implementations of different machine learning algorithms, and tools for common data preparation tasks involved in machine leaarning programming projects.
+Scikit-learn is a widely used Python based machine learning and natural language processing module. Scikit-learn provides methods for supervised and unsupervised learning, implementations of different machine learning algorithms, and tools for common data preparation tasks involved in machine leaarning programming projects.
 
 This workshop will focus on programming with scikit-learn, rather than the theory behind ML algorithms. The material here is designed for a 2-3 hour workshop and consists of two workbooks. The first workbook introduces machine learning, document categorizaation, and sentiment analysis using a very small dataset. The second workbook applies these techniques to a larger dataset using a scikit-learn pipeline. 
 
