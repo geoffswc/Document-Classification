@@ -1,4 +1,4 @@
-# Scikit-Learn-Workshop
+# Document Classification with Scikit Learn
 
 ### Short Description
 
