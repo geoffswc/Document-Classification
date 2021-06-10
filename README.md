@@ -63,6 +63,14 @@ This tutorial consists of a series of notebooks. Further explanatory text is ava
 
 How to create, populate, and apply a sentiment model on a very small set of observations (documents).
 
+### Stem-Lemma-Example.ipynb
+
+How to use the stemming and lemmatizing libraries to condense multiple words into a common base.
+
+### Prepare-Document-Example.ipynb
+
+How to transform a single document (string) into the words and phrases most likely to be relevant for a classification algorithm. Covers removal of stop words, removal of non-alpha or non-numeric text, stemming/lemmatizing, vectorization of documents. 
+
 ### Movie-Reviews-Pipeline.ipynb
 
 How to use a scikit-learn pipeline to more efficently create, populate, and apply a sentiment prediction model on a larger document collection.
